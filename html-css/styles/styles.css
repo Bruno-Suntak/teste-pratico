@@ -6,6 +6,30 @@
 
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: aqua;
 }
 
-/* SEU CSS AQUI */
+#Cabecalho {
+  text-align: center;
+  color: blueviolet;
+}
+
+#item1{
+  background-color: chocolate;
+}
+
+#item2{
+  background-color: green
+}
+
+#item3{
+  background-color: gray;
+}
+
+#LinkGoogle{
+  color: darkorange;
+}
+
+#LinkGoogle:hover{
+  color: red;
+}
